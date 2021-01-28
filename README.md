@@ -21,7 +21,7 @@
 <br />
 <br />
 
-I am a **data enthusiast**, **developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. Currently, I'm a Community Team Member 👩🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a tableau power user [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
+I am a **Data Enthusiast**, **BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. Currently, I'm a Community Team Member 👩🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a tableau power user [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
 
 Since I am a huge technical enthusiast , I research a lot and my recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
 
@@ -29,7 +29,7 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 
 **A little something about me:**
 
-- 👦‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, Machine Learning, Data Science;
+- 👦‍💻 I’m currently looking for full time opportuBInities in Business Intelligence, Data Analytics, Machine Learning, Data Science;
 - 🌱 I’m currently polishing my coding skills in Python & SQL, learning Deep Reinforcement Learning and working on making a dynamic tableau dashboard for covid impact on world (economical); 
 - 🤔 My interests are with Data Engineering, ETL and Business Intelligence, Computer vision, Reinforcement Learning, Natural Language Processing/Understanding,etc..;
 - 🎓 I’m Masters in Information System from Northeastern University (GPA 3.8);
@@ -56,7 +56,6 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 <code><img height="25" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png"></code>
 <code><img height="25" src="https://community.idera.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-31/8037.DataArchitect256x256.png"></code>
 <code><img height="25" src="https://www.pngfind.com/pngs/m/653-6539775_google-analytics-logo-hd-png-download.png"></code>
-<code><img height="25" src="https://img.stackshare.io/service/10345/ADB.png"></code>
 <code><img height="25" src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-ai/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png"></code>
 <code><img height="25" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -68,9 +67,3 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 
 
 ![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=RushabhNisher&show_icons=true&hide_border=true)
-
-
-
-
-
-
