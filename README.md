@@ -44,25 +44,27 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 2) 1+ years of experience in Data Warehousing and Business Intelligence - Worked with entire data pipeline, right from data extraction, data integration and bringing out insights from visualizations and statistical inferences. Along with development of complex code bases for maintaining quality of data that is utilized for different purposes.
 
 **Languages and Tools:** 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://cdn.educba.com/academy/wp-content/uploads/2019/02/T-SQL-Commands.jpg"></code>
-<code><img height="20" src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180320/qwq/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69bc5833.9561526915215363617715.jpg"></code>
-<code><img height="20" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/1280px-Talend_logo.svg.png"></code>
-<code><img height="20" src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"></code>
-<code><img height="20" src="https://www.logolynx.com/images/logolynx/9f/9f5380cdef9e98b0fb8791cac040287f.png"></code>
-<code><img height="20" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png"></code>
-<code><img height="20" src="https://community.idera.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-31/8037.DataArchitect256x256.png"></code>
-<code><img height="20" src="https://www.pngfind.com/pngs/m/653-6539775_google-analytics-logo-hd-png-download.png"></code>
-<code><img height="20" src="https://img.stackshare.io/service/10345/ADB.png"></code>
-<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-ai/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png"></code>
-<code><img height="20" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://cdn.educba.com/academy/wp-content/uploads/2019/02/T-SQL-Commands.jpg"></code>
+<code><img height="25" src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603"></code>
+<code><img height="25" src="https://banner2.cleanpng.com/20180320/qwq/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69bc5833.9561526915215363617715.jpg"></code>
+<code><img height="25" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/1280px-Talend_logo.svg.png"></code>
+<code><img height="25" src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"></code>
+<code><img height="25" src="https://www.logolynx.com/images/logolynx/9f/9f5380cdef9e98b0fb8791cac040287f.png"></code>
+<code><img height="25" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png"></code>
+<code><img height="25" src="https://community.idera.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-31/8037.DataArchitect256x256.png"></code>
+<code><img height="25" src="https://www.pngfind.com/pngs/m/653-6539775_google-analytics-logo-hd-png-download.png"></code>
+<code><img height="25" src="https://img.stackshare.io/service/10345/ADB.png"></code>
+<code><img height="25" src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-ai/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png"></code>
+<code><img height="25" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="25" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-1280x800.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
 
 
 ![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=RushabhNisher&show_icons=true&hide_border=true)
