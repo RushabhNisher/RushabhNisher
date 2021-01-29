@@ -21,22 +21,22 @@
 <br />
 <br />
 
-I am a **Data Enthusiast**, **BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. Currently, I'm a Community Team Member 👩🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a tableau power user [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
+I am a **Data Enthusiast**, **BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. I love delving deeper into data to derive meaningful insights from it help better **ETL** and **ML** processes. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a tableau power user [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
 
 Since I am a huge technical enthusiast , I research a lot and my recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
 
-  <img align="right" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" />
+  <img align="right" height="300" width="400" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
 
 **A little something about me:**
 
-- 👦‍💻 I’m currently looking for full time opportuBInities in Business Intelligence, Data Analytics, Machine Learning, Data Science;
-- 🌱 I’m currently polishing my coding skills in Python & SQL, learning Deep Reinforcement Learning and working on making a dynamic tableau dashboard for covid impact on world (economical); 
+- 👦‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, Machine Learning, Data Science & ETL;
+- 🌱 I’m currently polishing my coding skills in Python & SQL, learning Deep Learning and Deep Reinforcement Learning and working on making a Dynamic Tableau Dashboard for economic impact of covid impact on world; 
 - 🤔 My interests are with Data Engineering, ETL and Business Intelligence, Computer vision, Reinforcement Learning, Natural Language Processing/Understanding,etc..;
 - 🎓 I’m Masters in Information System from Northeastern University (GPA 3.8);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rushabhnisher123@gmail.com to reach me;
+- ✉ Please email via rushabhnisher123@gmail.com to reach me;
 - ⚡ Fun fact: I love fun facts, and gaining new knowledge each day. I also love reading, writing small lemurks and I have a huge passion for watching and playing Soccer ⚽
-- 💭 Quote to live by: Learning never ends and a mind that is stretched by a new experience can never go back to its old dimensions.
+- 💭 Quotes to live by: Learning never ends and a mind that is stretched by a new experience can never go back to its old dimensions.
 
 
 **Experience**
