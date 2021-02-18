@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm **Rushabh Nisher**
+## Hi there 👋
+## I'm **Rushabh Nisher**
 
 
 <a href="http://www.linkedin.com/in/rushabh-nisher/">
