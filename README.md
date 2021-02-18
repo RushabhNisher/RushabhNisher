@@ -40,6 +40,7 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 - ✉ Please email via rushabhnisher123@gmail.com to reach me;
 - ⚡ Fun fact: I love fun facts, and gaining new knowledge each day. I also love reading, writing small lemurks and I have a huge passion for watching and playing Soccer ⚽
 - 💭 Quotes to live by: Learning never ends and a mind that is stretched by a new experience can never go back to its old dimensions.
+- 📜 Certifications: Tableau Desktop Specialist, Google Analytics Individual Qualification, Lean Six Sigma White Belt
 
 
 **Experience**
