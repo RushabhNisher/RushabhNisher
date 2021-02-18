@@ -17,9 +17,9 @@
 <a href="https://twitter.com/nowwhatstherush">
   <img align="left" alt="Rushabh's Twitter" width="24px" src="http://cdn.onlinewebfonts.com/svg/img_146816.svg" />
 </a>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a06ccf0a-fa32-4cdf-a580-8cb48559262b" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
+<a href="https://www.youracclaim.com/badges/a06ccf0a-fa32-4cdf-a580-8cb48559262b/public_url">
+  <img align="left" alt="Rushabh's Desktop Specialist Badge" width="35px" src="https://images.youracclaim.com/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png" />
+</a>
 
 <br />
 <br />
@@ -50,12 +50,12 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://cdn.educba.com/academy/wp-content/uploads/2019/02/T-SQL-Commands.jpg"></code>
+<code><img height="25" src="https://www.logolynx.com/images/logolynx/9f/9f5380cdef9e98b0fb8791cac040287f.png"></code>
 <code><img height="25" src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603"></code>
 <code><img height="25" src="https://banner2.cleanpng.com/20180320/qwq/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69bc5833.9561526915215363617715.jpg"></code>
 <code><img height="25" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/1280px-Talend_logo.svg.png"></code>
 <code><img height="25" src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg"></code>
-<code><img height="25" src="https://www.logolynx.com/images/logolynx/9f/9f5380cdef9e98b0fb8791cac040287f.png"></code>
 <code><img height="25" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png"></code>
 <code><img height="25" src="https://community.idera.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-31/8037.DataArchitect256x256.png"></code>
 <code><img height="25" src="https://www.pngfind.com/pngs/m/653-6539775_google-analytics-logo-hd-png-download.png"></code>
