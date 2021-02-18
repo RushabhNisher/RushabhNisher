@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## I'm **Rushabh Nisher**
 
-
 <a href="http://www.linkedin.com/in/rushabh-nisher/">
   <img align="left" alt="Rushabh's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,18 +10,19 @@
 <a href="https://public.tableau.com/profile/rushabh.jayesh.nisher#!/">
   <img align="left" alt="Rushabh's Tableau" width="44px" src="https://www.biztory.com/hubfs/4_tableau-512.png" />
 </a>
+<a href="https://www.youracclaim.com/badges/a06ccf0a-fa32-4cdf-a580-8cb48559262b/public_url">
+  <img align="left" alt="Rushabh's Desktop Specialist Badge" width="44px" src="https://images.youracclaim.com/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png" />
+</a>
 <a href="https://www.instagram.com/now_whats_the_rush/?hl=en">
   <img align="left" alt="Rushabh's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/nowwhatstherush">
   <img align="left" alt="Rushabh's Twitter" width="44px" src="http://cdn.onlinewebfonts.com/svg/img_146816.svg" />
 </a>
-<a href="https://www.youracclaim.com/badges/a06ccf0a-fa32-4cdf-a580-8cb48559262b/public_url">
-  <img align="left" alt="Rushabh's Desktop Specialist Badge" width="44px" src="https://images.youracclaim.com/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png" />
-</a>
 
 <br />
 <br />
+
 
 I am a **Data Enthusiast**, **BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. I love delving deeper into data to derive meaningful insights from it help better **ETL** and **ML** processes. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a tableau power user [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
 
