@@ -1,5 +1,5 @@
-## Hi there 👋
-## I'm **Rushabh Nisher**
+##Hi there 👋
+##I'm **Rushabh Nisher**
 
 <a href="http://www.linkedin.com/in/rushabh-nisher/">
   <img align="left" alt="Rushabh's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
