@@ -13,6 +13,9 @@
 <a href="https://www.youracclaim.com/badges/a06ccf0a-fa32-4cdf-a580-8cb48559262b/public_url">
   <img align="left" alt="Rushabh's Desktop Specialist Badge" width="44px" src="https://images.youracclaim.com/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png" />
 </a>
+<a href="https://www.youracclaim.com/badges/1bc0e324-ae44-46c9-863c-fb535258e8b3/public_url">
+  <img align="left" alt="Rushabh's Microsoft Azure Fundamentals (AZ-900) Badge" width="44px" src="https://images.youracclaim.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />
+</a>
 <a href="https://www.instagram.com/now_whats_the_rush/?hl=en">
   <img align="left" alt="Rushabh's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
