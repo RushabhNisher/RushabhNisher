@@ -27,7 +27,7 @@
 <br />
 <p></p>
 
-I am a **Data Enthusiast**, **ETL/BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. I love delving deeper into data to derive meaningful insights from it help better **ETL** and **ML** processes. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a Tableau Power User [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
+I am a **Data Enthusiast**, **ETL/BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. I love delving deeper into data to derive meaningful insights from it to help better **ETL** and **ML** processes. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a Tableau Power User [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
 
 Since I am a huge technical enthusiast, I love delving deeper into data, deriving insights and conducting research a lot and my recent interests include Business Intelligence, Data Warehousing, Data Visualization, Data Analysis and Machine Learning.
 
