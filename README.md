@@ -35,8 +35,8 @@ Since I am a huge technical enthusiast, I love delving deeper into data, derivin
 
 **A little something about me:**
 
-- 👦‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Engineering, ETL Development ,Data Analytics and Machine Learning;
-- 🌱 I’m currently polishing my coding skills in Python & SQL and working on making a Dynamic Tableau Dashboard for Economic Impact of COVID-19 on world; 
+- 👦‍💻 I’m currently working full time at Boston Housing Authority and Volunteering in my free time at Greenstand;
+- 🌱 I’m currently polishing my coding skills in Python & SQL and learning basic concepts of Airflow; 
 - 🤔 My interests are with Data Engineering, ETL and Business Intelligence, Data Analytics, Machine Learning, Natural Language Processing/Understanding etc.;
 - 🎓 I’m Masters in Information System from Northeastern University (GPA 3.8);
 - 🎓 I’m Bachelors in Computer Engineering from MCT's Rajiv Gandhi Institute of Technology, Mumbai University (GPA 3.4); 
@@ -74,6 +74,9 @@ Since I am a huge technical enthusiast, I love delving deeper into data, derivin
 <code><img height="25" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="25" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-1280x800.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
+<code><img height="25" src="https://i.pcmag.com/imagery/reviews/05fqDQUuRXgFxdx8qWP0fkY-5.1569471903.fit_scale.size_760x427.png"></code>
+<code><img height="25" src="https://s3.amazonaws.com/trustspot-logos/TSLOGO_1544547073_5739.png"></code>
+<code><img height="25" src="https://airflow.apache.org/images/feature-image.png"></code>
 
 
 ![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=RushabhNisher&show_icons=true&hide_border=true)
