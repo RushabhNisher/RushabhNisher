@@ -27,17 +27,16 @@
 <br />
 <p></p>
 
-I am a **Data Enthusiast**, **ETL/BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. I love delving deeper into data to derive meaningful insights from it to help better **ETL** and **ML** processes. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a Tableau Power User [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
+I am a **Data Enthusiast**, **ETL/BI Developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. Since I am a huge technical enthusiast (and let's be honest, somewhat of a nerd), I love delving deeper into data, deriving insights and conducting research a lot and my recent interests include Business Intelligence, Data Warehousing, Data Visualization, Data Analysis and Machine Learning. Currently, I'm a Github Community Team Member 👨🏻‍💻 [@RushabhNisher](https://github.com/RushabhNisher), Kaggler 👨🏽‍💻 [@Kaggle](http://www.kaggle.com/rushabhnisher123), and a Tableau Power User [@Tableau](https://public.tableau.com/profile/rushabh.jayesh.nisher#!/) . 
 
-Since I am a huge technical enthusiast, I love delving deeper into data, deriving insights and conducting research a lot and my recent interests include Business Intelligence, Data Warehousing, Data Visualization, Data Analysis and Machine Learning.
 
   <img align="right" height="300" width="400" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
 
 **A little something about me:**
 
 - 👦‍💻 I’m currently working full time at Boston Housing Authority and Volunteering in my free time at Greenstand;
-- 🌱 I’m currently polishing my coding skills in Python & SQL and learning basic concepts of Airflow; 
-- 🤔 My interests are with Data Engineering, ETL and Business Intelligence, Data Analytics, Machine Learning, Natural Language Processing/Understanding etc.;
+- 🌱 I’m currently polishing my coding skills in Python & SQL and learning basic concepts of Airflow and Google Analytics; 
+- 🤔 My interests are with Data Engineering, ETL and Business Intelligence, Data Analytics, Business Analysis, Machine Learning etc.;
 - 🎓 I’m Masters in Information System from Northeastern University (GPA 3.8);
 - 🎓 I’m Bachelors in Computer Engineering from MCT's Rajiv Gandhi Institute of Technology, Mumbai University (GPA 3.4); 
 - 💬 Ask me about anything, I am happy to help;
